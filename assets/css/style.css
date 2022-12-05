@@ -1,0 +1,59 @@
+.login-title {
+    font-size: 2.5rem;
+}
+
+.btn-login {
+    background-color: blue;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.btn-cancel {
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.p-viewer {
+    position: relative;
+    margin: -7% 13px;
+    float: right;
+}
+
+.status-indicator {
+    background-color: green;
+    padding: 5px;
+    width: 34px;
+    height: 34px;
+}
+
+.navbar,
+.sidebar-nav,
+.sidebar-item .sidebar-link,
+.sidebar-brand {
+    background: blue !important;
+    color: white;
+}
+
+.sidebar-item.active .sidebar-link {
+    background: #2AA7DD !important;
+}
+
+.hamburger,
+.hamburger:after,
+.hamburger:before {
+    background: #fff;
+}
+
+.dropdown-toggle:after {
+    border: solid white;
+    border-width: 0 2px 2px 0;
+}
+
+.content {
+    background: #45A5FF;
+}
+
+.card-content {
+    background: blue;
+    border-radius: 13px;
+}
